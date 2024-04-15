@@ -1,4 +1,4 @@
-### Hi there 👋
+Entry-level Javascript/React developer looking for a software development role, with an eye for front-end development.
 
 <!--
 **NabsK/NabsK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
