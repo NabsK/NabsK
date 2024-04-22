@@ -5,7 +5,7 @@ Hi there 👋. <br><br>
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nabeel-karolia-153602247/) [![Email](https://img.shields.io/badge/Email-stefanschutte@icloud.com-blue?style=for-the-badge)](mailto:nab.kar123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nabeel-karolia-153602247/) [![Email](https://img.shields.io/badge/Email-nab.kar123@gmail.com-blue?style=for-the-badge)](mailto:nab.kar123@gmail.com)
 
 <!--
 **NabsK/NabsK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
