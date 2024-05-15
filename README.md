@@ -1,8 +1,8 @@
-# Hi there👋 I'm Nabeel 👨‍💻<br><br>
+# Hi there👋 I'm Nabeel 👨‍💻<br>
 
-I'm a software developer seeking a web development role, with a eye for front-end development and UI/UX design
+I'm a software developer seeking a web development role, with a eye for front-end development and UI/UX design<br>
 🔭 I’m currently working on creating my personal portfolio site<br><br>
-🌱 I am also researching and learning more about UI automationa, how to deploy websites, and experimenting with new front-end frameworks<br><br>
+🌱 I am also researching and learning more about UI automation, how to deploy websites, and experimenting with new front-end frameworks<br><br>
 ⚡ Fun fact: In my spare time you can find me enjoying nature⛰️, keeping fit🏋️‍♂️ or gaming with friends🎮
 
 ## 🌐 Socials:
