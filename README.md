@@ -3,7 +3,7 @@
 I'm a software developer seeking a web development role, with a eye for front-end development and UI/UX design<br>
 
 🔭 I’m currently working on creating my personal portfolio site<br>
-🌱 I am also researching and learning more about UI automation, how to deploy websites, and experimenting with new front-end frameworks<br>
+🌱 I am also researching and learning more about UI animation, how to host websites, and experimenting with new front-end frameworks<br>
 ⚡ Fun fact: If I'm not at my computer, you can find me enjoying nature⛰️, keeping fit🏋️‍♂️ or gaming with friends🎮
 
 ## 💻 Tech Stack:
