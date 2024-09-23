@@ -2,9 +2,9 @@
 
 I'm a Full Stack Developer with an eye for Front-End Development and UI/UX Design<br>
 
-📜 I’m currently working on completing a professional UX Design certificate from Google<br>
-🌱 I am also researching and learning more about UI animation, Wordpress, and experimenting with new front-end frameworks<br>
-⚡ Fun fact: If I'm not at my computer, you can find me enjoying nature⛰️, keeping fit🏋️‍♂️ or gaming with friends🎮
+📜 I’m currently working on completing a professional AI Essentials certificate from Google<br>
+🌱 I am also researching and learning more about UI animation, Wordpress, and experimenting with frameworks<br>
+⚡ Fun fact: If I'm not at my computer, you can find me practicing archery🏹, keeping fit🏋️‍♂️ or gaming with friends🎮
 
 ## Connect with me:
 
