@@ -1,6 +1,6 @@
 # Hi there 👋<br>
 
-I'm a Full Stack Developer with an eye for Front-End Development and UI/UX Design<br>
+I'm a Junior Full Stack Developer with an eye for Front-End Development <br>
 
 📜 I’m currently working on completing a professional AI Essentials certificate from Google<br>
 🌱 I am also researching and learning more about UI animation, Wordpress, and experimenting with frameworks<br>
