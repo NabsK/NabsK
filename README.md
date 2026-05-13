@@ -1,8 +1,10 @@
 # Hi there 👋
 
-I'm a Full Stack Software Developer with hands-on experience building and maintaining production systems, currently working at **Fastway Couriers South Africa**.
+I'm a Full Stack Software Developer at Fastway Couriers, building and maintaining production systems that directly impact daily business operations. My focus is on system reliability, internal tooling, and creating solutions that improve efficiency across teams.
 
-I specialize in developing scalable web applications, improving system reliability, and working across both frontend and backend environments.
+My experience spans agency and startup environments, working with TypeScript, JavaScript, React, Next.js, PHP, MySQL, and Shopify, giving me the ability to contribute across the full stack, from API design to user interfaces.
+
+What drives me is solving real problems with clean, maintainable code. I take ownership of projects from conception through deployment, learn quickly, and don't shy away from unfamiliar codebases or technologies. I thrive in environments where iteration and continuous improvement are part of the culture.
 
 ---
 
